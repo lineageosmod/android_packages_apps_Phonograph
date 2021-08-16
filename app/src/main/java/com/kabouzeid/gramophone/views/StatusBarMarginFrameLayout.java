@@ -8,7 +8,6 @@ import android.widget.FrameLayout;
 
 public class StatusBarMarginFrameLayout extends FrameLayout {
 
-
     public StatusBarMarginFrameLayout(Context context) {
         super(context);
     }
